@@ -1,0 +1,12 @@
+
+RIDES,START_STATION_NAME,END_STATION_NAME,AVG_DURATION,TIME_WINDOW
+5134,2nd at Townsend,Harry Bridges Plaza (Ferry Building),489.05375925204527,AFTERNOON
+5099,Harry Bridges Plaza (Ferry Building),2nd at Townsend,572.605020592273,MORNING
+4932,Embarcadero at Folsom,San Francisco Caltrain (Townsend at 4th),632.0216950527168,AFTERNOON
+4638,San Francisco Caltrain 2 (330 Townsend),Townsend at 7th,299.49288486416697,MORNING
+4449,Steuart at Market,2nd at Townsend,517.991908293997,MORNING
+4448,San Francisco Caltrain (Townsend at 4th),Temporary Transbay Terminal (Howard at Beale),691.2468525179866,MORNING
+4355,Embarcadero at Sansome,Steuart at Market,401.9233065442031,AFTERNOON
+4073,Temporary Transbay Terminal (Howard at Beale),San Francisco Caltrain (Townsend at 4th),656.2113920942794,AFTERNOON
+4001,Steuart at Market,San Francisco Caltrain (Townsend at 4th),716.0524868782828,AFTERNOON
+3867,Market at Sansome,2nd at South Park,356.1430049133686,MORNING

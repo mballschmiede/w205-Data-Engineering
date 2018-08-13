@@ -1,0 +1,12 @@
+
+RIDES,START_STATION_NAME,END_STATION_NAME,AVG_DURATION,TIME_WINDOW
+1943,Harry Bridges Plaza (Ferry Building),Embarcadero at Sansome,2227.8126608337634,AFTERNOON
+1536,Embarcadero at Sansome,Embarcadero at Sansome,4511.128255208331,AFTERNOON
+1505,Harry Bridges Plaza (Ferry Building),Embarcadero at Sansome,2502.603322259132,MORNING
+1032,Harry Bridges Plaza (Ferry Building),Harry Bridges Plaza (Ferry Building),5819.8517441860495,AFTERNOON
+1002,Embarcadero at Sansome,Harry Bridges Plaza (Ferry Building),1439.0269461077867,AFTERNOON
+786,Embarcadero at Sansome,Embarcadero at Sansome,5624.424936386773,MORNING
+762,Harry Bridges Plaza (Ferry Building),Harry Bridges Plaza (Ferry Building),8798.430446194228,MORNING
+727,Embarcadero at Vallejo,Embarcadero at Sansome,2534.1416781292955,AFTERNOON
+594,University and Emerson,University and Emerson,8042.436026936021,AFTERNOON
+528,Embarcadero at Vallejo,Embarcadero at Sansome,2666.198863636362,MORNING
